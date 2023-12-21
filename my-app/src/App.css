@@ -1,0 +1,31 @@
+
+body {
+    background: rgb(255, 255, 255);
+    background: radial-gradient(
+      circle,
+      rgb(255, 255, 255) 0%,
+      rgb(221, 217, 217) 0%,
+      rgb(228, 224, 224) 100%
+    );
+  }
+  
+  Button {
+    background: #0563b4 !important;
+    margin: 2px !important;
+  }
+  p {
+    color: rgb(229, 0, 0);
+  }
+
+
+.container-box{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+  margin: auto;
+}
+  .nav-link{
+    color: #fff;
+  }
